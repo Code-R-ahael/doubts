@@ -1,4 +1,3 @@
-doubts
-======
+Liang-Barsky Line Clipping
 
-fix it plz
+Fixed the bugs
